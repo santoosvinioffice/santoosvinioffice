@@ -2,7 +2,7 @@
 
 <hr> 
 
-My name is Vinicius. I'm student of Python, Django and Rest API. I'm very interested in the world of programming and proactive when it comes to learning and practicing, I also enjoy teaching. Now i'm Looking for job.
+Meu nome é Vinicius. Eu sou um estudante de Python, Django e Rest API. Eu sou muito interessado no mundo da programação e proativo quando o assunto é programar, e tambem gosto de ensinar. No momento eu estou procurando por um emprego.
 
 <hr>
 

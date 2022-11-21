@@ -9,7 +9,9 @@ My name is Vinicius. I'm student of Python, Django and Rest API. I'm very intere
 ## O que você encontra no meu Github ?
 
 Sites Full Stack com framework Django
+
 Mini-programas auxiliares para Contabilidades
+
 Meus aprendizados diversos
 
 <!--

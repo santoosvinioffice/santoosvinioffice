@@ -2,7 +2,9 @@
 
 <hr> 
 
-Meu nome é Vinicius. Eu sou um estudante de CyberSecurity, Python, Django e Rest API. Eu sou muito interessado no mundo da programação e proativo quando o assunto é programar, e tambem gosto de ensinar. No momento eu estou procurando por um emprego.
+Meu nome é Vinicius. Eu sou um estudante de CyberSecurity, Python, Django e de vez em quando Unity. Eu sou muito interessado no mundo da programação e proativo quando o assunto é programar, tambem gosto de ensinar. 
+
+No momento eu estou a procura de um emprego.
 
 <hr>
 

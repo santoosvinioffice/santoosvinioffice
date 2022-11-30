@@ -26,6 +26,8 @@ Linux  | Administrando servidor do jogo Project Zomboid.
 
 Lua    | Correções de Mods e Traduções do jogo Project Zomboid.
 
+<hr>
+
 ### O que gostaria de desenvolver ?
 
 - Dev. Full Stack Django
